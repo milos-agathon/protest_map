@@ -1,4 +1,4 @@
-# protest_map
+# Timelapse Bubble map of protests in Europe based on ACLED data
 
 Many users on social media have asked me how to make an animated bubble map. In this repo I provide <150 lines of R code and Armed Conflict Location & Event Data Project (ACLED) data to show you how to create a timelapse map of European protests between April 2020 and April 2021.
 
