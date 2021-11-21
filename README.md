@@ -5,3 +5,5 @@ Many users on social media have asked me how to make an animated bubble map. In 
 The data on protests originate from ACLED www.acleddata.com. I downloaded the dataset in csv format from https://developer.acleddata.com/ using my user credentials and assigned API key. If you are already registered at ACLED's website, I suggest either downloading the dataset from the website using your own API key or trying out Chris Dworschak's R library acled.api. Unfortunately, my user rights do not allow for using this package so I downloaded the dataset from the ACLED website.
 
 The shapefile of Europe comes from ehttp://tapiquen-sig.jimdofree.com. Carlos Efraín Porto Tapiquén. Geografía, SIG y Cartografía Digital. Valencia, Spain, 2020.
+
+![alt text](https://github.com/milos-agathon/protest_map/blob/main/eur_protests.gif?raw=true)
